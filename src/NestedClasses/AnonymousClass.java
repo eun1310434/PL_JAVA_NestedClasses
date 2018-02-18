@@ -1,3 +1,9 @@
+/*
+ * 18.02.2018
+ * eun1310434@naver.com
+ * https://blog.naver.com/eun1310434
+ */
+
 package NestedClasses;
 class AnonymousClass_Base {
 	protected String message;
